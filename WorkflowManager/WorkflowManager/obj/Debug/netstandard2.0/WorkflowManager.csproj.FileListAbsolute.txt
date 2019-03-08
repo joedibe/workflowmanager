@@ -1,0 +1,14 @@
+C:\WorkflowManager\WorkflowManager\WorkflowManager\bin\Debug\netstandard2.0\WorkflowManager.deps.json
+C:\WorkflowManager\WorkflowManager\WorkflowManager\bin\Debug\netstandard2.0\WorkflowManager.dll
+C:\WorkflowManager\WorkflowManager\WorkflowManager\bin\Debug\netstandard2.0\WorkflowManager.pdb
+C:\WorkflowManager\WorkflowManager\WorkflowManager\obj\Debug\netstandard2.0\WorkflowManager.csprojAssemblyReference.cache
+C:\WorkflowManager\WorkflowManager\WorkflowManager\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\WorkflowManager\WorkflowManager\WorkflowManager\obj\Debug\netstandard2.0\Views\CustomNavigationView.xaml.g.cs
+C:\WorkflowManager\WorkflowManager\WorkflowManager\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\WorkflowManager\WorkflowManager\WorkflowManager\obj\Debug\netstandard2.0\Views\MainView.xaml.g.cs
+C:\WorkflowManager\WorkflowManager\WorkflowManager\obj\Debug\netstandard2.0\WorkflowManager.csproj.CoreCompileInputs.cache
+C:\WorkflowManager\WorkflowManager\WorkflowManager\obj\Debug\netstandard2.0\WorkflowManager.AssemblyInfoInputs.cache
+C:\WorkflowManager\WorkflowManager\WorkflowManager\obj\Debug\netstandard2.0\WorkflowManager.AssemblyInfo.cs
+C:\WorkflowManager\WorkflowManager\WorkflowManager\obj\Debug\netstandard2.0\XamlC.stamp
+C:\WorkflowManager\WorkflowManager\WorkflowManager\obj\Debug\netstandard2.0\WorkflowManager.dll
+C:\WorkflowManager\WorkflowManager\WorkflowManager\obj\Debug\netstandard2.0\WorkflowManager.pdb
